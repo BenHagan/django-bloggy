@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/ben/Documents/Dev/django-quick-start/django-bloggy/env"
+VIRTUAL_ENV="/home/ben/Documents/RealPython/django-bloggy/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

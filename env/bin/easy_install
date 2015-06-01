@@ -1,4 +1,4 @@
-#!/home/ben/Documents/Dev/django-quick-start/django-bloggy/env/bin/python2
+#!/home/ben/Documents/RealPython/django-bloggy/env/bin/python2
 
 # -*- coding: utf-8 -*-
 import re

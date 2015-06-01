@@ -1,4 +1,4 @@
-#!/home/ben/Documents/Dev/django-quick-start/django-bloggy/env/bin/python2
+#!/home/ben/Documents/RealPython/django-bloggy/env/bin/python2
 from django.core import management
 
 if __name__ == "__main__":
